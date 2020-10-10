@@ -1,4 +1,11 @@
 #!/bin/bash
+
+# file color.sh
+# brief  a script that asks for a favorite color and ouptuts text in one of five colors
+# author Hunter Spack
+# Lab 6.1
+# date 10/10/2020
+
 red='\033[0;31m'
 green='\033[0;32m'
 yellow='\033[0;33m'
